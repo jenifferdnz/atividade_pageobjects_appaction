@@ -1,0 +1,19 @@
+{
+  "name": "teste_pageobjects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.1",
+    "cypress": "^8.7.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
